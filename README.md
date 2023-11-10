@@ -20,7 +20,7 @@ Follow the URL link provided: https://jsskilton.github.io/Console-Finances/
 
 Navigate to the console to see the answers.
 
-![screenshot of webpage](screenshot.jpg)
+![screenshot of webpage](screenshot.JPG)
 
 ## Credits
 
